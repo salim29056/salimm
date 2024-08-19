@@ -1,0 +1,51 @@
+h1{ text-align: center;
+    color: blue;
+    text-decoration-line: underline;
+
+
+}
+img{background-origin: content-box;
+    margin-left: 1400px;
+}
+#photo{ text-align: center;
+    border-radius: 300px;
+    margin-left: 1800px;
+
+}
+p{font-family: 'Arial', sans-serif; /* Police de caractères */
+    font-size: 50px; /* Taille de la police */
+    font-weight: bold; /* Gras */
+    color: #333333; /* Couleur du texte */
+    text-align: center; /* Alignement du texte */
+    line-height: 1.5; /* Hauteur de ligne */
+    background-color: #f0f0f0; /* Couleur de fond */
+    padding: 10px; /* Espacement interne */
+    border: 2px solid #cccccc; /* Bordure autour de la phrase */
+    border-radius: 8px; /* Coins arrondis pour la bordure */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Ombre portée */
+
+
+
+}
+body{
+    margin: 0;
+      height: 100vh;
+      
+      background: linear-gradient(45deg, #6be9ff, #9165f0, #7eff42, #f5e6ee);
+      background-size: 400% 400%;
+      animation: gradientAnimation 15s ease infinite;
+}
+#id{
+    text-decoration-line: underline;
+    animation: gradientAnimation 15s ease infinite;
+}
+
+
+#oo{
+font-size: 100px;
+
+}
+form{
+
+    font-size: 100px;
+}
